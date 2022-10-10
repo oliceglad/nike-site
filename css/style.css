@@ -299,7 +299,7 @@ a.header__links__search:focus-visible svg path {
   justify-content: space-between;
   width: 100%;
   min-height: 524px;
-  background-image: url('/img/home.jpg');
+  background-image: url('..//img/home.jpg');
   background-size: cover;
   padding-top: 74px;
   padding-bottom: 30px;
@@ -631,7 +631,7 @@ a.header__links__search:focus-visible svg path {
   margin-top: 30px;
   min-height: 782px;
   height: 100%;
-  background-image: url('/img/two.jpg');
+  background-image: url('..//img/two.jpg');
   background-size: cover;
   background-position: bottom;
 }
@@ -697,7 +697,7 @@ a.header__links__search:focus-visible svg path {
 
 .club {
   min-height: 430px;
-  background-image: url('/img/club.jpg');
+  background-image: url('..//img/club.jpg');
   background-size: cover;
 }
 
